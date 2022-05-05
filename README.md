@@ -1,5 +1,8 @@
 # Welcome to Onu!
 ![This is a badge for the creator](<https://img.shields.io/badge/Made%20By%3A-Christian%20(Lucky)%20Luciano-brightgreen>)
+![This is a badge for the creator](<https://img.shields.io/badge/grey-Made%20By%3A-Xavier%20King>)
+![This is a badge for the creator](<https://img.shields.io/badge/grey-Made%20By%3A-Craig%20Jeffret%20Caparaz>)
+
 <br>
 Onu is an application made to connect people to their local farmers market in order to encourage choosing healthier and more sustainable product options. Currently there are three members working and planning this project out: Christian (Lucky) Luciano, Xavier King and Craig Jeffrey Caparaz.
 
